@@ -62,7 +62,7 @@ I Postman:
 
 ### Installera och kör Newman
 
-Installera Newman om du inte redan har det:
+Installera Newman (detta kräver att [NodeJs](https://nodejs.org/en/download) är installerat) om du inte redan har det:
 
 ```bash
 npm install -g newman
