@@ -28,7 +28,7 @@ Innan du börjar, se till att du har:
 - Hur ser svaret ut när du lagt till flera anteckningar?
 - Kan du lista ut vilket format datan har?
 
-Reflektera och kommentera i Postman:  
+Reflektera:  
 - Vilka problem eller gränsfall hittade du när du testade manuellt?
 
 ---
