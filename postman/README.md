@@ -35,7 +35,7 @@ Reflektera:
 
 ## Del 2: Skriv tester i Postman
 
-I varje request kan du lägga till **testfall** (under fliken `Tests`).
+I varje request kan du lägga till **testfall** (under `Scripts > Post-response` fliken).
 
 Läs dokumentationen: https://learning.postman.com/docs/writing-scripts/script-references/test-examples/
 
