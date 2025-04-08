@@ -57,7 +57,7 @@ Fundera:
 ### Exportera samlingen
 
 I Postman:  
-- Klicka på samlingen → "Export"
+- Klicka på samlingen → "..." → ("More") → "Export"
 - Välj v2.1-format
 
 ### Installera och kör Newman
